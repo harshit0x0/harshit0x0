@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨I love building things! <br>📚 I'm currently learning MERN <br>☕Turning coffee into code </p>
+<p align="left">✨I love building things! <br>📚 I'm currently learning Next <br>☕Turning coffee into code </p>
 
 ###
 
