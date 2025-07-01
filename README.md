@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨I love building things! <br>📚 I'm currently exploring Next and Typescript <br>☕Turning coffee into code </p>
+<p align="left">✨I love building things! <br>📚 Node + Typescript <br>☕Turning coffee into code </p>
 
 ###
 
