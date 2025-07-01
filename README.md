@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Harshit Pandey and I'm a Web Developer, from Uttarakhand, India</p>
+<p align="left">My name is Harshit Pandey and I'm a Backend Developer :)</p>
 
 ###
 
